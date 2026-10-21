@@ -7,7 +7,9 @@ Recognises handwritten digits (MNIST) and letters A-Z (EMNIST) using a Convoluti
 |---|---|---|
 | CNN | MNIST (digits) | ~99% |
 | CNN | EMNIST (letters) | ~93.4% |
+
 ![MNIST curves](training_curves_mnist.png)
+
 ![EMNIST curves](training_curves_emnist.png)
 
 ## Setup
